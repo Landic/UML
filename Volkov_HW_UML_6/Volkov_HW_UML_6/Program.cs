@@ -15,6 +15,11 @@ namespace Volkov_HW_UML_6
             Console.WriteLine(Shop.BuildCar(new UAZPatriot()));
             Console.WriteLine("------------------------------------");
             Console.WriteLine(Shop.BuildCar(new DaewooLanos()));
+            Console.WriteLine("------------------------------------");
+            IBuilder obj = new DaewooLanos();
+            Shop obj2 = new Shop(obj);
+            obj2.BuildCar();
+            Console.WriteLine(obj.GetCar());
         }
     }
 }
