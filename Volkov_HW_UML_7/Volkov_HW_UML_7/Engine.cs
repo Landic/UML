@@ -20,7 +20,7 @@ namespace Volkov_HW_UML_7
             this.TypeEngine = TypeEngine;
         }
 
-        public object Clone()
+        public IClone Clone()
         {
             Engine obj = new Engine();
             obj.TypeEngine = TypeEngine;

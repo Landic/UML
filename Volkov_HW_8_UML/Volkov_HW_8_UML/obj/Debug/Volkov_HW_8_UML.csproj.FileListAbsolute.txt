@@ -1,0 +1,8 @@
+D:\Projects\UML\Volkov_HW_8_UML\Volkov_HW_8_UML\bin\Debug\Volkov_HW_8_UML.exe.config
+D:\Projects\UML\Volkov_HW_8_UML\Volkov_HW_8_UML\bin\Debug\Volkov_HW_8_UML.exe
+D:\Projects\UML\Volkov_HW_8_UML\Volkov_HW_8_UML\bin\Debug\Volkov_HW_8_UML.pdb
+D:\Projects\UML\Volkov_HW_8_UML\Volkov_HW_8_UML\obj\Debug\Volkov_HW_8_UML.csproj.AssemblyReference.cache
+D:\Projects\UML\Volkov_HW_8_UML\Volkov_HW_8_UML\obj\Debug\Volkov_HW_8_UML.csproj.SuggestedBindingRedirects.cache
+D:\Projects\UML\Volkov_HW_8_UML\Volkov_HW_8_UML\obj\Debug\Volkov_HW_8_UML.csproj.CoreCompileInputs.cache
+D:\Projects\UML\Volkov_HW_8_UML\Volkov_HW_8_UML\obj\Debug\Volkov_HW_8_UML.exe
+D:\Projects\UML\Volkov_HW_8_UML\Volkov_HW_8_UML\obj\Debug\Volkov_HW_8_UML.pdb

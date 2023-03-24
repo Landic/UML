@@ -12,7 +12,7 @@ namespace Volkov_HW_UML_7
         public string Model { get; set; }
         public Engine engine { get; set; }
 
-        public abstract object Clone();
+        public abstract IClone Clone();
 
         public override string ToString()
         {
@@ -39,7 +39,7 @@ namespace Volkov_HW_UML_7
             this.engine = engine;
         }
 
-        public override object Clone()
+        public override IClone Clone()
         {
             Vessel obj = (Vessel)this.MemberwiseClone();
             obj.Model = Model;
@@ -71,7 +71,7 @@ namespace Volkov_HW_UML_7
             this.engine = engine;
         }
 
-        public override object Clone()
+        public override IClone Clone()
         {
             Plane obj = (Plane)this.MemberwiseClone();
             obj.Model = Model;
@@ -103,7 +103,7 @@ namespace Volkov_HW_UML_7
             this.engine = engine;
         }
 
-        public override object Clone()
+        public override IClone Clone()
         {
             Auto obj = (Auto)this.MemberwiseClone();
             obj.Model = Model;

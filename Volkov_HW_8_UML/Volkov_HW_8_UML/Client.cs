@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Volkov_HW_UML_7
+namespace Volkov_HW_8_UML
 {
-    internal interface IClone
+    internal class Client
     {
-        IClone Clone();
     }
 }
