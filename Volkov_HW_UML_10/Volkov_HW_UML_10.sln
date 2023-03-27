@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volkov_HW_UML_10", "Volkov_HW_UML_10\Volkov_HW_UML_10.csproj", "{F7799BF7-E0E8-4170-9ED7-9820E1620421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7799BF7-E0E8-4170-9ED7-9820E1620421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7799BF7-E0E8-4170-9ED7-9820E1620421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7799BF7-E0E8-4170-9ED7-9820E1620421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7799BF7-E0E8-4170-9ED7-9820E1620421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C7D4ACC-A4B4-4AE7-8454-CF826631D004}
+	EndGlobalSection
+EndGlobal
