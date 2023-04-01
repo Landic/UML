@@ -1,0 +1,8 @@
+D:\Projects\UML\Volkov_HW_UML_17\Volkov_HW_UML_17\obj\Debug\Volkov_HW_UML_17.csproj.AssemblyReference.cache
+D:\Projects\UML\Volkov_HW_UML_17\Volkov_HW_UML_17\obj\Debug\Volkov_HW_UML_17.csproj.SuggestedBindingRedirects.cache
+D:\Projects\UML\Volkov_HW_UML_17\Volkov_HW_UML_17\obj\Debug\Volkov_HW_UML_17.csproj.CoreCompileInputs.cache
+D:\Projects\UML\Volkov_HW_UML_17\Volkov_HW_UML_17\bin\Debug\Volkov_HW_UML_17.exe.config
+D:\Projects\UML\Volkov_HW_UML_17\Volkov_HW_UML_17\bin\Debug\Volkov_HW_UML_17.exe
+D:\Projects\UML\Volkov_HW_UML_17\Volkov_HW_UML_17\bin\Debug\Volkov_HW_UML_17.pdb
+D:\Projects\UML\Volkov_HW_UML_17\Volkov_HW_UML_17\obj\Debug\Volkov_HW_UML_17.exe
+D:\Projects\UML\Volkov_HW_UML_17\Volkov_HW_UML_17\obj\Debug\Volkov_HW_UML_17.pdb
